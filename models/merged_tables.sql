@@ -7,7 +7,3 @@ WITH cross_data AS (
 )
 
 SELECT * FROM cross_data
-
-
-
--- alskfioasj
